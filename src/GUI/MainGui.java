@@ -26,7 +26,7 @@ public class MainGui {
     private AppointmentManager manager;
 
     public MainGui() {
-        //Application Styling
+        //Application Styl
         visuals();
 
         //Initialized the data manager, will hold all appointment data
