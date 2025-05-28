@@ -10,7 +10,7 @@ public class MainGui {
     //Main menu Panel
     private JPanel MainPanel;
 
-    //Menu name label
+    //Menu name labell
     private JLabel menu;
 
     //Main menu buttons
