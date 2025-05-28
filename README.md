@@ -7,3 +7,6 @@ Implemented external library, LGoodDatePicker, to collect date selections for cr
  ## Built With
 - Java 21
 - IntelliJ IDEA
+
+## Contributors 
+Octavio Valdivia, Leonardo Garcia, Sanaa Stanezai, and Lima Ibrahimkhail
